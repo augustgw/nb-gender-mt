@@ -1,0 +1,16 @@
+https://sv.wikipedia.org/wiki/Nina_Simone {0,1}
+https://sv.wikipedia.org/wiki/David_Bowie {2}
+https://sv.wikipedia.org/wiki/Janet_Jackson {3,4}
+https://sv.wikipedia.org/wiki/Giorgio_Moroder {5,6}
+https://sv.wikipedia.org/wiki/Bj%C3%B6rk_(musiker) {7}
+https://sv.wikipedia.org/wiki/Prince_(artist) {8.9}
+https://sv.wikipedia.org/wiki/Erykah_Badu {10,11}
+https://sv.wikipedia.org/wiki/Karl_Edvard_Stuart {12,13}
+https://sv.wikipedia.org/wiki/Lili%27uokalani {14,15}
+https://sv.wikipedia.org/wiki/Sunjong_av_Korea {16,17}
+https://sv.wikipedia.org/wiki/Drottning_Kristina {18,19}
+https://sv.wikipedia.org/wiki/Adolf_Appell%C3%B6f {20,21}
+https://sv.wikipedia.org/wiki/Emily_Arnesen {22,23}
+https://sv.wikipedia.org/wiki/David_Attenborough {24,25}
+https://sv.wikipedia.org/wiki/Rachel_Carson {26,27}
+https://sv.wikipedia.org/wiki/George_Washington_Carver {28,29}
