@@ -11,8 +11,8 @@ Gender of English pronominal translations of Swedish 3rd person singular non-bin
 Key:
 - m: 3rd person singular masculine 'he'
 - f: 3rd person singular feminine 'she'
-- nb: 3rd person singular non-binary/gender-neutral 'they' (where number is unambiguously singular)
-- pl: 3rd person plural 'they'
+- nb: 3rd person singular non-binary/gender-neutral 'they' (cases where number can be interpreted as singular)
+- pl: 3rd person plural 'they' (cases where number is unambiguously plural)
 - d: translation of 'hen' as proper noun 'Hen'
 - b: presents both masculine and feminine translations
  
